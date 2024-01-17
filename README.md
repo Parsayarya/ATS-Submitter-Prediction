@@ -33,9 +33,9 @@ Getting Started
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/yourusername/ovr-multi-label-text-classification.git
+git clone https://github.com/Parsayarya/ATS-Submitter-Prediction.git
 cd ovr-multi-label-text-classification
-Ensure you have the required dataset (e.g., 'FinalCorpus4.csv') available in the 'Data' folder.
+Ensure you have the required dataset (e.g., 'FinalCorpus4.csv') available in the 'Data' folder. That is the information and working papers from the ATS archive.
 
 Run the code using a Python environment (Python 3.6 or higher):
 
