@@ -69,7 +69,3 @@ Modify the code's configuration (e.g., threshold values, model hyperparameters) 
 Run the code using the instructions provided in the "Getting Started" section.
 Feel free to customize and extend the code as needed for your project.
 
-References
-scikit-learn Documentation
-Pandas Documentation
-Matplotlib Documentation
